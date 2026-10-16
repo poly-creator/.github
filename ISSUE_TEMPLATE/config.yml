@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Plugin authoring guides
+    url: https://github.com/poly-creator/plugin-sdk/tree/main/docs
+    about: Settings, node UI, and how the manifest fits together.
+  - name: Submit a plugin to the registry
+    url: https://github.com/poly-creator/plugins
+    about: One PR adds one entry — the template shows how to cut the release it points at.
