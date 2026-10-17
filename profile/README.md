@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/poly-creator/.github/main/profile/band.svg" width="100%" height="12" alt="PolyCreator brand band">
+
 # PolyCreator
 
 [![website](https://img.shields.io/badge/website-polycreator.si-7b2cff)](https://polycreator.si)
