@@ -1,7 +1,7 @@
 # PolyCreator
 
-[![website](https://img.shields.io/badge/website-polycreator.si-blue)](https://polycreator.si)
-[![npm](https://img.shields.io/npm/v/@polycreator/plugin-sdk)](https://www.npmjs.com/package/@polycreator/plugin-sdk)
+[![website](https://img.shields.io/badge/website-polycreator.si-7b2cff)](https://polycreator.si)
+[![npm](https://img.shields.io/npm/v/@polycreator/plugin-sdk?color=7b2cff)](https://www.npmjs.com/package/@polycreator/plugin-sdk)
 
 An infinite-canvas studio for AI-generated images, video and storyboards. The
 application is closed source; the plugin SDK is not.
