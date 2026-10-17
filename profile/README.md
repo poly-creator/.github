@@ -1,7 +1,18 @@
 # PolyCreator
 
-An infinite-canvas studio for AI-generated images, video and storyboards — with a
-plugin system whose SDK is open.
+[![website](https://img.shields.io/badge/website-polycreator.si-blue)](https://polycreator.si)
+[![npm](https://img.shields.io/npm/v/@polycreator/plugin-sdk)](https://www.npmjs.com/package/@polycreator/plugin-sdk)
+
+An infinite-canvas studio for AI-generated images, video and storyboards. The
+application is closed source; the plugin SDK is not.
+
+## Links
+
+| | |
+|---|---|
+| **Website** | https://polycreator.si |
+| **Download** | https://polycreator.si/download |
+| **Plugin marketplace** | https://polycreator.si/plugins |
 
 ## Repositories
 
@@ -20,6 +31,10 @@ plugin system whose SDK is open.
 4. Open one PR against [the registry](https://github.com/poly-creator/plugins) adding one entry. CI checks the release assets, their byte-consistency and the in-zip integrity hash; a human then reviews the code.
 
 The API guides live next to the SDK: [plugin settings](https://github.com/poly-creator/plugin-sdk/blob/main/docs/plugin-settings.md) and [plugin node UI](https://github.com/poly-creator/plugin-sdk/blob/main/docs/plugin-node-ui.md).
+
+## Questions and show-and-tell
+
+[Discussions](https://github.com/poly-creator/plugin-sdk/discussions) — for questions about the plugin API, what you built, and ideas that are not yet a concrete issue. Bugs and changes belong on the repositories; [CONTRIBUTING](https://github.com/poly-creator/.github/blob/main/CONTRIBUTING.md) says which ones take direct pull requests.
 
 ## Licence
 
