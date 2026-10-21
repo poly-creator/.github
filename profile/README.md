@@ -13,6 +13,8 @@ application is closed source; the plugin SDK is not.
 | **Website** | https://polycreator.si |
 | **Download** | https://polycreator.si/download |
 | **Plugin marketplace** | https://polycreator.si/plugins |
+| **Help center** | https://polycreator.si/help |
+| **Tutorials** | https://polycreator.si/docs |
 
 ## Repositories
 
